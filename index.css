@@ -1,0 +1,10 @@
+/* Write your code here. */
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
